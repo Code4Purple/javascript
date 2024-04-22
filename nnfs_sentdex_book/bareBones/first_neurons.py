@@ -14,7 +14,7 @@ print(output) # it should be 2.3
 # 4 Inputs, 4 Weights, 1 Bias
 inputs2 = [1.0, 2.0, 3.0, 2.5]
 weights2 = [0.2, 0.8, -0.5, 1.0]
-bias2 = 2.0;
+bias2 = 2.0
 
 output2 = (inputs2[0] * weights2[0] + 
            inputs2[1] * weights2[1] + 

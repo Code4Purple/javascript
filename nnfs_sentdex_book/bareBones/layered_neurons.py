@@ -46,7 +46,7 @@ for neuron_weights, neuron_bias in zip(weights_v2, biases_v2):
 	# Zeroed output of given neuron
 	neuron_output = 0
 	# For each input and weight to the neuron
-	for n_input, weight in zip(inputs_v2, neuron_weights):
+	for n_input, weight in zip(inputs_v2, neuron_weights):  # The zip() function lets us iterate over multiple iterables (lists in this case) simultaneously.
 		# Multiply this input by associated weight
 		# and add to the neuron's output variable
 		neuron_output += n_input * weight
