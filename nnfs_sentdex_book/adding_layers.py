@@ -28,4 +28,3 @@ print(layer2_outputs) # it should be...
                       # [ 0.2434 -2.7332 -5.7633 ],
                       # [-0.99314 1.41254 -0.35655]])
 
-# pg 62 bookmark on tranning data

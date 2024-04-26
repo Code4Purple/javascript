@@ -11,3 +11,9 @@
 2. layered_numpy.py
 3. batch_of_data.py
 4. matrix_product.py
+
+# activations_functions
+1. adding_layers.py
+2. tranning_data.py
+3. ReLU_activation_function.py
+4. softmax_activation_function.py
