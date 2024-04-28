@@ -17,3 +17,4 @@
 2. tranning_data.py
 3. ReLU_activation_function.py
 4. softmax_activation_function.py
+5. network_error
